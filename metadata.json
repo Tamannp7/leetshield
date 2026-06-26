@@ -1,0 +1,6 @@
+{
+  "name": "LeetCode Duplicate Detector",
+  "description": "Analyze your solved LeetCode solutions for code duplicacy, plagiarism, and structural similarity using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
